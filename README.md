@@ -20,7 +20,8 @@ Below are actions performed
 -	Data cleaning and formatting
 
 ### Exploratory Data Analysis (EDA)
-This involves the exploring of the data to answer some of the questions like
+This involves the exploring of the data to answer some of the questions like[Amazon case study.xlsx](https://github.com/user-attachments/files/21085065/Amazon.case.study.xlsx)
+
 -	Products with discount of 50% and more
 -	Products with highest number of reviews
 -	Top 5 products in terms of rating and number of reviews
@@ -35,3 +36,4 @@ This is where we include some excel function to generate additional columns wher
 There maybe mistakes while cleaning the data, auditing and spotting this mistake while using Microsoft excel to analyze large data may be difficult. 
 
 
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21085066/Amazon.case.study.xlsx)
