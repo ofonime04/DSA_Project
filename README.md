@@ -1,6 +1,8 @@
 # DSA_PROJECT
 This is my capstone project for Digital Skillup Africa (DSA) course (July 2025) by incubator hub.
 
+## PROJECT TOPIC: AMAZON PRODUCT REVIEW ANALYSIS
+
 ## PROJECT OVERVIEW
 The objective of this project is to have an insight on that can guide product improvement, marketing strategies and customer engagement by analyzing the customer review data received against the product. 
 
